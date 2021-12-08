@@ -24,7 +24,7 @@
     {
       "botId": 4,
       "botName": "Rita",
-      "botType": "NORMAL-REATIVO",
+      "botType": "Normal | Reativo",
       "templateId": 4,
       "templateName": "Salão: agendamento c/confirmação"
     }
