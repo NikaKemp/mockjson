@@ -3,21 +3,21 @@
     {
       "botId": 1,
       "botName": "Ana Atendimento",
-      "botType": "NORMAL-REATIVO",
+      "botType": "Normal | Reativo",
       "templateId": 1,
-      "templateName": "NAUTICO ATENDIMENTO"
+      "templateName": "Nautico Atendimento"
     },
     {
       "botId": 2,
       "botName": "Ana Leads",
-      "botType": "VENDAS-ATIVO",
+      "botType": "Vendas | Ativo",
       "templateId": 2,
-      "templateName": "NAUTICO VENDAS"
+      "templateName": "Nautico Vendas"
     },
     {
       "botId": 3,
       "botName": "Alfa",
-      "botType": "NORMAL-REATIVO",
+      "botType": "Normal | Reativo",
       "templateId": 3,
       "templateName": "Salão: agendamento s/confirmação"
     },
